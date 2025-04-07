@@ -6,7 +6,9 @@ function App() {
     <div>
       <Toaster position="top-center" />
       <LandingPage />
+      Devs' Reg No :12315186,            12306800,            12304544 <br />
     </div>
+    
   );
 }
 
